@@ -17,7 +17,7 @@ de datos
 - Creacion de circuitos electronicos 
 ---
 ## 👌 Objetivos
- Mejorar mis habilidades en programación
+- Mejorar mis habilidades en programación
 - Desarrollar proyectos personales
 - Aprender nuevas tecnologías
 ---
